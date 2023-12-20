@@ -1,5 +1,6 @@
-<h3 align="center"><img src="https://iili.io/JAG0Pgj.png" /></h3>
-
+<p align="center"> 
+  <img src="https://iili.io/JAG0Pgj.png" height="400" width="100%"/>
+</p>
 
 <h3 align="center">A visionary 👀 person trying to change paradigms</h3>
 <p align="left"> 
