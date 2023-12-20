@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hugo Saporetti Junior</h1>
+<h3 align="center"><img src="https://iili.io/JAG0Pgj.png" /></h3>
+
+
 <h3 align="center">A visionary 👀 person trying to change paradigms</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" /> 
