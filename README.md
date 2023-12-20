@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hugo Saporetti Junior</h1>
-<h3 align="center">A visionary person trying to change paradigms</h3>
+<h3 align="center">A visionary 👀 person trying to change paradigms</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" /></a> </p>
 
-- 👋 Hi, I’m Yore
-- 👀 I’m interested in music, computers, games, technology and the universe
-- 🌱 I’m currently learning how to be the best programmer (lol)
-- 💞️ I’m looking to collaborate in the community with Open Source projects
-- 📫 How to reach me, I am unreachable (hehe) but mailto: yorevs@hotmail.com
-- 🌱 I’m currently learning **Advanced Python and Bash**
-- 🤝 I’m looking for help with promoting my projects [HomeSetup and HSPyLib](https://github.com/yorevs/homesetup)
+- 🤝 I’m interested in music, computers, games, technology and the universe.
+- 🤝 I’m currently learning how to be the best programmer (lol).
+- 🤝 I’m looking to collaborate in the community with open-source projects.
+- 🤝 I’m currently learning **Advanced Python and Bash**.
+- 🤝 I’m looking for help with promoting my projects [HomeSetup and HSPyLib](https://github.com/yorevs/homesetup).
 - 👨‍💻 All of my projects are available at [https://github.com/yorevs](https://github.com/yorevs)
-- 💬 Ask me about **Bash, Python and Java**
-- 📫 How to reach me **yorevs@hotmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/yorevs/](https://www.linkedin.com/in/yorevs/)
-- ⚡ Want my Résumé? Message me on LinkedIn **https://www.linkedin.com/in/yorevs/**
+- 💬 Ask me about **Bash, Python and Java**.
+- 💬 How to reach me? I am unreachable (hehe) but mailto: **yorevs@hotmail.com**.
+- 📄 Know about my experiences [https://www.linkedin.com/in/yorevs/](https://www.linkedin.com/in/yorevs/).
+- 📄 Want my Résumé? Message me on LinkedIn **https://www.linkedin.com/in/yorevs/**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
