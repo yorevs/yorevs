@@ -141,8 +141,8 @@
 
 ## My Projects
 
-- [HomeSetup](https://github.com/yorevs/homesetup)
-- [HSPyLib](https://github.com/yorevs/hspylib)
+- [HomeSetup](https://yorevs.github.io/homesetup)
+- [HSPyLib](https://yorevs.github.io/hspylib)
 - [CCompass](https://github.com/yorevs/ccompass)
 
 ## My Books
