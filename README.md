@@ -1,10 +1,12 @@
 <p align="center"> 
-  <img src="https://iili.io/JAGEsDB.png" height="400" width="100%"/>
+  <img src="https://iili.io/JAGEsDB.png" height="400" width="100%" alt="yorevs-banner" />
 </p>
 
 <h3 align="center">A visionary 👀 person trying to change paradigms</h3>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" /> 
+  <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
+  <img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/yorevs" />
 </p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
