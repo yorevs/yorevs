@@ -161,7 +161,13 @@
 
 ## Support Me
 
+You can also sponsor me by using our [GitHub Sponsors](https://github.com/sponsors/yorevs) page.
+
+Or,
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yorevs)
+
+Or even,
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J5CDEFLF6M3H4">
   <img align="left" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal button" />
