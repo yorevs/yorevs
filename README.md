@@ -6,13 +6,16 @@ I am a proponent of open dissemination of information, believing that knowledge 
 
 > A visionary 👀 person trying to change paradigms
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
-<img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/followers/yorevs" />
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
-</a> 
+<p>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
+    <img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/yorevs" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
+    </a> 
+  </p>
+</p>
 
 ------
 
