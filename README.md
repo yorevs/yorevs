@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://iili.io/JAGEsDB.png" height="100%" width="100%" alt="yorevs-banner" />
 
 <img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="140" />
@@ -14,6 +15,23 @@ I am a proponent of open dissemination of information, believing that knowledge 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
   </a> 
+=======
+<p align="center"> 
+  <img src="https://iili.io/JZKlLZP.png" height="300" width="100%" alt="yorevs-banner" />
+  
+  <h3 align="center">A visionary 👀 person trying to change paradigms</h3>
+  <br/>
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
+    <img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/yorevs" />
+  </p>
+  <p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
+    </a> 
+  </p>
+>>>>>>> ba63f36 (Add new background images)
 </p>
 
 
