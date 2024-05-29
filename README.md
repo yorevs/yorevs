@@ -14,24 +14,27 @@
     </a> 
 </p>
 
+<img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="130" />
+
+<p>
+    I am a proponent of open dissemination of information, believing that knowledge that benefits everyone should be
+    accessible to all. My mission involves pushing the boundaries of solid principles and concepts, and to realize this, I
+    actively contribute to the development of OpenSource tools that offer innovative solutions to prevailing challenges. With the advent of AI and the relentless growth of this technology, understanding its engines may lead us to success.
+</p>
+
+<br/>
 
 ------
 
-<img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="140" />
-
-I am a proponent of open dissemination of information, believing that knowledge that benefits everyone should be
-accessible to all. My mission involves pushing the boundaries of solid principles and concepts, and to realize this, I
-actively contribute to the development of OpenSource tools that offer innovative solutions to prevailing challenges.
-
 > A visionary 👀 person trying to change paradigms
 
-- 🤝 I’m interested in music, computers, games, technology, and the universe.
+- 🤝 I’m interested in music, computers, games, technology, AI, and the universe.
 - 🤝 I’m currently learning how to be the best programmer (lol).
 - 🤝 I’m looking to collaborate in the community with open-source projects.
 - 🤝 I’m currently learning **Advanced Python and Bash**.
 - 🤝 I’m looking for help with promoting my projects [HomeSetup and HSPyLib](https://github.com/yorevs/homesetup).
 - 👨‍💻 All of my projects are available at [https://github.com/yorevs](https://github.com/yorevs)
-- 💬 Ask me about **Bash, Python and Java**.
+- 💬 Ask me about **Bash, AI, Python and Java**.
 - 💬 How to reach me? I am unreachable (hehe) but mailto: **yorevs@hotmail.com**.
 - 📄 Know about my experiences [https://www.linkedin.com/in/yorevs/](https://www.linkedin.com/in/yorevs/).
 - 📄 Want my Résumé? Message me on LinkedIn **https://www.linkedin.com/in/yorevs/**.
