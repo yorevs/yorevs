@@ -1,41 +1,29 @@
-<<<<<<< HEAD
-<img src="https://iili.io/JAGEsDB.png" height="100%" width="100%" alt="yorevs-banner" />
-
-<img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="140" />
-
-I am a proponent of open dissemination of information, believing that knowledge that benefits everyone should be accessible to all. My mission involves pushing the boundaries of solid principles and concepts, and to realize this, I actively contribute to the development of OpenSource tools that offer innovative solutions to prevailing challenges.
-
-> A visionary 👀 person trying to change paradigms
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
-  <img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/yorevs" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
-  </a> 
-=======
 <p align="center"> 
   <img src="https://iili.io/JZKlLZP.png" height="300" width="100%" alt="yorevs-banner" />
-  
-  <h3 align="center">A visionary 👀 person trying to change paradigms</h3>
-  <br/>
-  <p align="left"> 
+</p>
+<h3 align="center">A visionary 👀 person trying to change paradigms</h3>
+<br/>
+<p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=yorevs&label=Profile%20views&color=0e75b6&style=flat" alt="yorevs" />
     <img src="https://img.shields.io/github/stars/yorevs" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/followers/yorevs" />
-  </p>
-  <p align="left"> 
+</p>
+<p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
+        <img src="https://github-profile-trophy.vercel.app/?username=yorevs" alt="yorevs" />
     </a> 
-  </p>
->>>>>>> ba63f36 (Add new background images)
 </p>
 
 
 ------
+
+<img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="140" />
+
+I am a proponent of open dissemination of information, believing that knowledge that benefits everyone should be
+accessible to all. My mission involves pushing the boundaries of solid principles and concepts, and to realize this, I
+actively contribute to the development of OpenSource tools that offer innovative solutions to prevailing challenges.
+
+> A visionary 👀 person trying to change paradigms
 
 - 🤝 I’m interested in music, computers, games, technology, and the universe.
 - 🤝 I’m currently learning how to be the best programmer (lol).
@@ -61,7 +49,6 @@ I am a proponent of open dissemination of information, believing that knowledge 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
-
 
 ## Languages, Tools and Frameworks
 
