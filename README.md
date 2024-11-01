@@ -14,7 +14,7 @@
     </a> 
 </p>
 
-<img src="https://iili.io/JMDZ8cF.jpg" align="left" style="padding-right: 10px" width="140" height="130" />
+<img src="https://iili.io/2o3eMGa.png" align="left" style="padding-right: 10px" width="140" height="140" />
 
 <p>
     I am a proponent of open dissemination of information, believing that knowledge that benefits everyone should be
